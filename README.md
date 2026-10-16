@@ -23,7 +23,7 @@ Custom development can include:
 
 These are examples of separately commissioned development, not features included in the free plugin. Scope, feasibility, pricing, and delivery time are agreed individually.
 
-**[Discuss your project → avxplugins@gmail.com](mailto:avxplugins@gmail.com)**
+**[Discuss your project by email →](mailto:avxplugins@gmail.com)**
 
 Please describe your current website setup and the workflow you need. Do not include passwords or customer information in public GitHub issues.
 
